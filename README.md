@@ -23,7 +23,7 @@
 <div style="position: relative; z-index: 1;">
 
 # 👨🏻‍💻 Márcio Júnior  
-**Desenvolvedor FullStack**
+**Desenvolvedor FrontEnd**
 
 Tenho 25 anos, sou de Alfenas-MG, formado em Odontologia e atualmente curso Engenharia de Software.  
 Estou em transição para o mercado de tecnologia e compartilho minha jornada nas redes sociais.
