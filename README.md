@@ -53,6 +53,12 @@ Estou em transição para o mercado de tecnologia e compartilho minha jornada na
 
 ---
 
+### 🐍 Status do Jogo da Cobrinha
+
+![Snake Animation Status](https://github.com/JuniorSixx/snake-animation/actions/workflows/snake.yml/badge.svg)
+
+---
+
 ### 📊 Estatísticas GitHub
 
 <img 
