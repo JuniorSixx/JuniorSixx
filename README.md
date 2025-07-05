@@ -2,13 +2,6 @@
   <img src="https://readme-typing-svg.vercel.app/?color=00ff00&size=35&center=true&vCenter=true&width=1000&lines=CONNECTING+TO+SYSTEM...;INITIALIZING+PROTOCOLS...;HELLO,+I'M+M%C3%A1rcio+J%C3%BAnior;WEB+DEVELOPER+%7C+PENTESTER+%7C+CYBER+SECURITY;WELCOME+TO+THE+MATRIX+:%29" />
 </div>
 
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JuniorSixx&show_icons=true&count_private=true&hide_border=true&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9&bg_color=0d1117" alt="Márcio Júnior stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorSixx&layout=compact&hide_border=true&title_color=00ff00&text_color=00ff00&bg_color=0d1117" />
-</div>
-
----
-
 ## 🖤 **ABOUT_ME.exe**
 
 ```
