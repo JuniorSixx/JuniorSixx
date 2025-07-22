@@ -12,7 +12,7 @@
 
 ## 🕶️ Sobre Mim
 
-Sou Márcio Júnior, especialista em cibersegurança e pentest, apaixonado por proteger sistemas e desenvolver soluções seguras. Atuo com análise de vulnerabilidades, testes de intrusão e desenvolvimento seguro, sempre buscando evolução constante e certificações reconhecidas no mercado.
+Sou Márcio Júnior, estudante e entusiasta de cibersegurança e pentest, em transição de carreira e focado em aprender e evoluir na área de segurança da informação. Estou em busca de conhecimento prático, participando de cursos, laboratórios e desafios para desenvolver habilidades sólidas e contribuir futuramente com a comunidade de segurança.
 
 ---
 
