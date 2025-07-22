@@ -33,6 +33,16 @@ Sou Márcio Júnior, especialista em cibersegurança e pentest, apaixonado por p
 
 ---
 
+## 🎓 Cursos & Formação
+
+- **Cybersegurança** – Anhanguera (cursando)
+- **Engenharia de Software** – Anhanguera (cursando)
+- **Pentest investigando vulnerabilidades em um servidor de aplicações web** – Alura (8h)
+- **Pentest: explorando vulnerabilidades em aplicações web** – Alura (8h)
+- **Pentest combinando vulnerabilidades e acessando o Shell** – Alura (8h)
+
+---
+
 ## 🚀 Projetos em Destaque
 
 - [PentestWrite](https://github.com/JuniorSixx/PentestWrite) – Relatórios e writeups de pentest
