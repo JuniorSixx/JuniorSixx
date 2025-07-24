@@ -47,7 +47,7 @@ Sou Márcio Júnior, estudante e entusiasta de cibersegurança e pentest, em tra
 ## 🚀 Projetos em Destaque
 
 - [PentestWrite](https://github.com/JuniorSixx/PentestWrite) – Relatórios e writeups de pentest
-- [Portfólio](https://juniorcyber.vercel.app/) – Projetos e artigos
+- [Portfólio](https://juniorcyber.vercel.app/](https://port-folio-blush-nine.vercel.app) – Projetos e artigos
 
 ---
 
