@@ -38,6 +38,7 @@ Sou Márcio Júnior, estudante e entusiasta de cibersegurança e pentest, em tra
 
 - **Cybersegurança** – Anhanguera (cursando)
 - **Engenharia de Software** – Anhanguera (cursando)
+- **Formação em Segurança Ofensiva** - Alura (31H)
 - **Pentest investigando vulnerabilidades em um servidor de aplicações web** – Alura (8h)
 - **Pentest: explorando vulnerabilidades em aplicações web** – Alura (8h)
 - **Pentest combinando vulnerabilidades e acessando o Shell** – Alura (8h)
