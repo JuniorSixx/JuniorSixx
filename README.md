@@ -27,8 +27,7 @@ Sou Márcio Júnior, estudante e entusiasta de cibersegurança e pentest, em tra
 ## 🏆 Certificações & Conquistas
 
 - TryHackMe:
-<img src="https://tryhackme-badges.s3.amazonaws.com/JuniorSixx.png" alt="Your Image Badge" />
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/JuniorSixx.png" alt="TryHackMe Badge" />
 - [ ] OSCP (em andamento)
 - [ ] CEH (em andamento)
 
@@ -38,7 +37,6 @@ Sou Márcio Júnior, estudante e entusiasta de cibersegurança e pentest, em tra
 
 - **Cybersegurança** – Anhanguera (cursando)
 - **Engenharia de Software** – Anhanguera (cursando)
-- **Formação em Segurança Ofensiva** - Alura (31H)
 - **Pentest investigando vulnerabilidades em um servidor de aplicações web** – Alura (8h)
 - **Pentest: explorando vulnerabilidades em aplicações web** – Alura (8h)
 - **Pentest combinando vulnerabilidades e acessando o Shell** – Alura (8h)
@@ -48,7 +46,7 @@ Sou Márcio Júnior, estudante e entusiasta de cibersegurança e pentest, em tra
 ## 🚀 Projetos em Destaque
 
 - [PentestWrite](https://github.com/JuniorSixx/PentestWrite) – Relatórios e writeups de pentest
-- [Portfólio](https://port-folio-blush-nine.vercel.app) – Projetos e artigos
+- [Portfólio](https://juniorcyber.vercel.app/) – Projetos e artigos
 
 ---
 
