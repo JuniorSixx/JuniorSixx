@@ -27,7 +27,7 @@ Sou Márcio Júnior, estudante e entusiasta de cibersegurança e pentest, em tra
 ## 🏆 Certificações & Conquistas
 
 - TryHackMe:
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5195617" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/JuniorSixx.png?t=20241201" alt="TryHackMe Badge" />
 - [ ] OSCP (em andamento)
 - [ ] CEH (em andamento)
 
