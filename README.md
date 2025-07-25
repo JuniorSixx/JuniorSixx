@@ -52,7 +52,7 @@ Sou Márcio Júnior, estudante e entusiasta de cibersegurança e pentest, em tra
 
 ## 🌐 Contato & Links
 
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marciojr1999) | [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/JuniorSixx) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/JuniorSixx) | [Portfólio](https://juniorcyber.vercel.app/) |
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marciojr1999) | [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/JuniorSixx) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/JuniorSixx) | [Portfólio](https://juniorcyber.vercel.app/](https://port-folio-blush-nine.vercel.app/) |
 |---|---|---|---|
 
 ---
