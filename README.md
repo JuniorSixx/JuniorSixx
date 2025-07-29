@@ -10,19 +10,6 @@
   <img src="https://readme-typing-svg.vercel.app/?color=00ff00&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I'M+M%C3%A1rcio+J%C3%BAnior;CYBERSECURITY+%7C+PENTESTER+%7C+WEB+DEVELOPER" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JuniorSixx&theme=matrix&no-frame=true&no-bg=true&margin-w=4" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuniorSixx&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorSixx&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=JuniorSixx&color=00ff00&style=flat-square" />
-</div>
-
 ## 🕶️ About Me
 
 I'm Márcio Júnior, a cybersecurity student and pentest enthusiast, transitioning careers and focused on learning and evolving in the information security field. I'm seeking practical knowledge, participating in courses, laboratories, and challenges to develop solid skills and contribute to the security community in the future.
@@ -75,5 +62,18 @@ I'm Márcio Júnior, a cybersecurity student and pentest enthusiast, transitioni
 |---|---|---|---|
 
 ---
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JuniorSixx&theme=matrix&no-frame=true&no-bg=true&margin-w=4" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JuniorSixx&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorSixx&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=JuniorSixx&color=00ff00&style=flat-square" />
+</div>
 
 
