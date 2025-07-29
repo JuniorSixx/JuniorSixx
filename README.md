@@ -10,49 +10,68 @@
   <img src="https://readme-typing-svg.vercel.app/?color=00ff00&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I'M+M%C3%A1rcio+J%C3%BAnior;CYBERSECURITY+%7C+PENTESTER+%7C+WEB+DEVELOPER" />
 </div>
 
-## 🕶️ Sobre Mim
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JuniorSixx&theme=matrix&no-frame=true&no-bg=true&margin-w=4" />
+</div>
 
-Sou Márcio Júnior, estudante e entusiasta de cibersegurança e pentest, em transição de carreira e focado em aprender e evoluir na área de segurança da informação. Estou em busca de conhecimento prático, participando de cursos, laboratórios e desafios para desenvolver habilidades sólidas e contribuir futuramente com a comunidade de segurança.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JuniorSixx&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorSixx&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=JuniorSixx&color=00ff00&style=flat-square" />
+</div>
+
+## 🕶️ About Me
+
+I'm Márcio Júnior, a cybersecurity student and pentest enthusiast, transitioning careers and focused on learning and evolving in the information security field. I'm seeking practical knowledge, participating in courses, laboratories, and challenges to develop solid skills and contribute to the security community in the future.
 
 ---
 
-## 🛡️ Skills Técnicas
+## 🛡️ Technical Skills
 
 - **Pentest:** Kali Linux, Metasploit, Nmap, Burp Suite, OWASP ZAP
-- **Desenvolvimento Seguro:** HTML5, CSS3, JavaScript, React, PHP, Laravel
-- **Ferramentas:** Git, Docker, Postman, Wireshark
+- **Secure Development:** HTML5, CSS3, JavaScript, React, PHP, Laravel
+- **Tools:** Git, Docker, Postman, Wireshark
 
 ---
 
-## 🏆 Certificações & Conquistas
+## 🏆 Certifications & Achievements
 
 - TryHackMe:
 <img src="https://tryhackme-badges.s3.amazonaws.com/JuniorSixx.png?t=20241201" alt="TryHackMe Badge" />
-- [ ] OSCP (em andamento)
-- [ ] CEH (em andamento)
+- [ ] OSCP (in progress)
+- [ ] CEH (in progress)
 
 ---
 
-## 🎓 Cursos & Formação
+## 🎓 Education
 
-- **Cybersegurança** – Anhanguera (cursando)
-- **Engenharia de Software** – Anhanguera (cursando)
-- **Pentest investigando vulnerabilidades em um servidor de aplicações web** – Alura (8h)
-- **Pentest: explorando vulnerabilidades em aplicações web** – Alura (8h)
-- **Pentest combinando vulnerabilidades e acessando o Shell** – Alura (8h)
+- **Cybersecurity** – Anhanguera (ongoing)
+- **Software Engineering** – Anhanguera (ongoing)
 
 ---
 
-## 🚀 Projetos em Destaque
+## 📚 Courses & Training
 
-- [PentestWrite](https://github.com/JuniorSixx/PentestWrite) – Relatórios e writeups de pentest
-- [Portfólio](https://port-folio-blush-nine.vercel.app/) – Projetos e artigos
+- **Offensive Security** – Alura (31h)
+- **Pentest investigating vulnerabilities in a web application server** – Alura (8h)
+- **Pentest: exploring vulnerabilities in web applications** – Alura (8h)
+- **Pentest combining vulnerabilities and accessing Shell** – Alura (8h)
 
 ---
 
-## 🌐 Contato & Links
+## 🚀 Featured Projects
 
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marciojr1999) | [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/JuniorSixx) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/JuniorSixx) | [![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=flat&logo=vercel&logoColor=white)](https://port-folio-blush-nine.vercel.app/) |
+- [PentestWrite](https://github.com/JuniorSixx/PentestWrite) – Pentest reports and writeups
+- [Portfolio](https://port-folio-blush-nine.vercel.app/) – Projects and articles
+
+---
+
+## 🌐 Contact & Links
+
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marciojr1999) | [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/JuniorSixx) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/JuniorSixx) | [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://port-folio-blush-nine.vercel.app/) |
 |---|---|---|---|
 
 ---
