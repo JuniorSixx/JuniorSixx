@@ -42,6 +42,7 @@ I'm Márcio Júnior, a cybersecurity student and pentest enthusiast, transitioni
 
 ## 📚 Courses & Training
 
+- **Cybersecurity Fundamentals** – Hackers do Bem (80h)
 - **Offensive Security** – Alura (31h)
 - **Pentest investigating vulnerabilities in a web application server** – Alura (8h)
 - **Pentest: exploring vulnerabilities in web applications** – Alura (8h)
