@@ -42,6 +42,7 @@ I'm Márcio Júnior, a cybersecurity student and pentest enthusiast, transitioni
 
 ## 📚 Courses & Training
 
+- **Cyber Threat Management** – Cisco (60h)
 - **Introduction to Pentest in Practice** – Desec Security (8h)
 - **Network Fundamentals** – LetsDefend (8h)
 - **Cybersecurity Fundamentals** – Hackers do Bem (80h)
