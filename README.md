@@ -22,13 +22,10 @@
 Sou **Márcio Júnior**, profissional em transição para cybersecurity com foco em pentesting e segurança de aplicações web. Atualmente desenvolvo habilidades em segurança da informação através de cursos especializados, laboratórios práticos e participação em desafios de CTF.
 
 ### Objetivos Profissionais
-- Desenvolver expertise em pentesting e operações red team
+- Desenvolver expertise em pentesting e análise de vulnerabilidades
 - Contribuir para a comunidade de segurança cibernética
 - Aplicar conhecimentos de desenvolvimento web em contextos de segurança
 - Obter certificações reconhecidas na área (OSCP, CEH)
-
-### Abordagem Técnica
-Acredito que a segurança deve ser integrada desde o início do desenvolvimento, não como uma camada adicional. Minha abordagem combina conhecimento técnico sólido com pensamento crítico para identificar e mitigar vulnerabilidades.
 
 ---
 
@@ -67,10 +64,6 @@ Acredito que a segurança deve ser integrada desde o início do desenvolvimento,
 
 ## Certificações & Conquistas
 
-### Certificações Atuais
-- **TryHackMe**: 
-  <img src="https://tryhackme-badges.s3.amazonaws.com/JuniorSixx.png?t=20241201" alt="TryHackMe Badge" />
-
 ### Certificações Obtidas
 - **Oracle Cloud Infrastructure 2025 Certified Foundations Associate** – Oracle (Outubro 2025)
 - **Cisco Cyber Threat Management** – Cisco (Outubro 2025)
@@ -80,6 +73,7 @@ Acredito que a segurança deve ser integrada desde o início do desenvolvimento,
 - **CEH** (Certified Ethical Hacker)
 
 ### TryHackMe
+<img src="https://tryhackme-badges.s3.amazonaws.com/JuniorSixx.png?t=20241201" alt="TryHackMe Badge" />
 - **Perfil**: [JuniorSixx](https://tryhackme.com/p/JuniorSixx)
 - **Foco**: Pentesting, Web Application Security, Network Security
 
@@ -151,15 +145,14 @@ Acredito que a segurança deve ser integrada desde o início do desenvolvimento,
 
 <div align="center">
 
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marciojr1999) | [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/JuniorSixx) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JuniorSixx) | [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://port-folio-blush-nine.vercel.app/) |
-|:---:|:---:|:---:|:---:|
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marciojuniorr/) | [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/JuniorSixx) | [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://port-folio-blush-nine.vercel.app/) |
+|:---:|:---:|:---:|
 
 </div>
 
 ### Contato Profissional
-- **LinkedIn**: [marciojr1999](https://www.linkedin.com/in/marciojr1999)
+- **LinkedIn**: [marciojuniorr](https://www.linkedin.com/in/marciojuniorr/)
 - **TryHackMe**: [JuniorSixx](https://tryhackme.com/p/JuniorSixx)
-- **GitHub**: [JuniorSixx](https://github.com/JuniorSixx)
 - **Portfolio**: [port-folio-blush-nine.vercel.app](https://port-folio-blush-nine.vercel.app/)
 
 ---
