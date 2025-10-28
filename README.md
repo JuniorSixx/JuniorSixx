@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Cybersecurity-FF6B6B?style=for-the-badge&logo=shield&logoColor=white" />
   <img src="https://img.shields.io/badge/Pentesting-4ECDC4?style=for-the-badge&logo=bug&logoColor=white" />
   <img src="https://img.shields.io/badge/Web%20Development-45B7D1?style=for-the-badge&logo=code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Red%20Team-FF6B6B?style=for-the-badge&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/Security%20Analysis-FF6B6B?style=for-the-badge&logo=search&logoColor=white" />
 </div>
 
 ## Sobre Mim
@@ -31,7 +31,7 @@ Sou **Márcio Júnior**, profissional em transição para cybersecurity com foco
 
 ## Habilidades Técnicas
 
-### Pentesting & Red Team
+### Pentesting & Análise de Segurança
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-FF6B6B?style=flat&logo=metasploit&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-FF6B6B?style=flat&logo=nmap&logoColor=white)
