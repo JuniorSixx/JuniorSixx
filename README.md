@@ -171,6 +171,3 @@ Sou **Márcio Júnior**, profissional em transição para cybersecurity com foco
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=JuniorSixx&color=00ff00&style=flat-square" />
 </div>
-
-
-
