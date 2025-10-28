@@ -74,6 +74,7 @@ Sou **Márcio Júnior**, profissional em transição para cybersecurity com foco
 
 ### TryHackMe
 <img src="https://tryhackme-badges.s3.amazonaws.com/JuniorSixx.png?t=20241201" alt="TryHackMe Badge" />
+
 - **Perfil**: [JuniorSixx](https://tryhackme.com/p/JuniorSixx)
 - **Foco**: Pentesting, Web Application Security, Network Security
 
@@ -160,7 +161,7 @@ Sou **Márcio Júnior**, profissional em transição para cybersecurity com foco
 ## Estatísticas GitHub
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JuniorSixx&theme=matrix&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=JuniorSixx&theme=matrix&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 <div align="center">
