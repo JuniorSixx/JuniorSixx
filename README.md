@@ -19,12 +19,26 @@
 
 ## Sobre Mim
 
-Sou **Márcio Júnior**, profissional em transição para cybersecurity com foco em pentesting e segurança de aplicações web. Atualmente desenvolvo habilidades em segurança da informação através de cursos especializados, laboratórios práticos e participação em desafios de CTF.
+Sou **Márcio Júnior**, profissional de cybersecurity com foco em pentesting e segurança de aplicações web. Desenvolvo habilidades em segurança da informação através de cursos especializados, laboratórios práticos e participação em desafios de CTF.
 
 ### Objetivos Profissionais
 - Desenvolver expertise em pentesting e análise de vulnerabilidades
 - Contribuir para a comunidade de segurança cibernética
 - Obter certificações reconhecidas na área (OSCP, CEH)
+
+---
+
+## Projetos
+
+### PentestWrite - Meu Projeto Principal
+**Repositório de Relatórios e Write-ups de Pentest**
+- **Link**: [PentestWrite](https://github.com/JuniorSixx/PentestWrite)
+- **Objetivo**: Documentar metodologias, técnicas e descobertas em testes de penetração
+- **Conteúdo**: Write-ups detalhados de CTFs, relatórios de vulnerabilidades e metodologias de pentesting
+
+### Portfolio
+- **Link**: [Portfolio](https://port-folio-blush-nine.vercel.app/)
+- **Tecnologias**: React, Next.js, Tailwind CSS
 
 ---
 
@@ -62,20 +76,6 @@ Sou **Márcio Júnior**, profissional em transição para cybersecurity com foco
 
 - **Perfil**: [JuniorSixx](https://tryhackme.com/p/JuniorSixx)
 - **Foco**: Pentesting, Web Application Security, Network Security
-
----
-
-## Projetos
-
-### PentestWrite - Meu Projeto Principal
-**Repositório de Relatórios e Write-ups de Pentest**
-- **Link**: [PentestWrite](https://github.com/JuniorSixx/PentestWrite)
-- **Objetivo**: Documentar metodologias, técnicas e descobertas em testes de penetração
-- **Conteúdo**: Write-ups detalhados de CTFs, relatórios de vulnerabilidades e metodologias de pentesting
-
-### Portfolio
-- **Link**: [Portfolio](https://port-folio-blush-nine.vercel.app/)
-- **Tecnologias**: React, Next.js, Tailwind CSS
 
 ---
 
