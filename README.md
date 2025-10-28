@@ -24,7 +24,6 @@ Sou **Márcio Júnior**, profissional em transição para cybersecurity com foco
 ### Objetivos Profissionais
 - Desenvolver expertise em pentesting e análise de vulnerabilidades
 - Contribuir para a comunidade de segurança cibernética
-- Aplicar conhecimentos de desenvolvimento web em contextos de segurança
 - Obter certificações reconhecidas na área (OSCP, CEH)
 
 ---
@@ -38,7 +37,7 @@ Sou **Márcio Júnior**, profissional em transição para cybersecurity com foco
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6B6B?style=flat&logo=burp-suite&logoColor=white)
 ![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-FF6B6B?style=flat&logo=owasp&logoColor=white)
 
-### Desenvolvimento Web Seguro
+### Desenvolvimento Web
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -46,23 +45,9 @@ Sou **Márcio Júnior**, profissional em transição para cybersecurity com foco
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 
-### Ferramentas & Tecnologias
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-
-### Especialidades
-- Análise de Vulnerabilidades Web (OWASP Top 10)
-- Penetration Testing em aplicações web
-- Reconhecimento e Enumeração de sistemas
-- Exploração de Vulnerabilidades conhecidas
-- Desenvolvimento Seguro de aplicações web
-- Análise de Tráfego de Rede com Wireshark
-
 ---
 
-## Certificações & Conquistas
+## Certificações
 
 ### Certificações Obtidas
 - **Oracle Cloud Infrastructure 2025 Certified Foundations Associate** – Oracle (Outubro 2025)
@@ -80,65 +65,17 @@ Sou **Márcio Júnior**, profissional em transição para cybersecurity com foco
 
 ---
 
-## Formação Acadêmica
+## Projetos
 
-### Graduação
-- **Cybersecurity** – Anhanguera (Em andamento)
-- **Engenharia de Software** – Anhanguera (Em andamento)
-
-### Cursos & Treinamentos Especializados
-
-#### Cybersecurity & Pentesting
-- **Gerenciamento de Ameaças Cibernéticas** – Cisco (60h)
-- **Introdução ao Pentest na Prática** – Desec Security (8h)
-- **Fundamentos de Redes** – LetsDefend (8h)
-- **Fundamentos de Cybersecurity** – Hackers do Bem (80h)
-
-#### Segurança Ofensiva
-- **Segurança Ofensiva** – Alura (31h)
-- **Pentest: investigando vulnerabilidades em servidor de aplicação web** – Alura (8h)
-- **Pentest: explorando vulnerabilidades em aplicações web** – Alura (8h)
-- **Pentest: combinando vulnerabilidades e acessando Shell** – Alura (8h)
-
-#### Metodologias de Aprendizado
-- **Hands-on Labs**: Prática constante em ambientes controlados
-- **CTF Challenges**: Participação ativa em competições de segurança
-- **Write-ups**: Documentação detalhada de técnicas e descobertas
-
----
-
-## Projetos em Destaque
-
-### PentestWrite
+### PentestWrite - Meu Projeto Principal
 **Repositório de Relatórios e Write-ups de Pentest**
 - **Link**: [PentestWrite](https://github.com/JuniorSixx/PentestWrite)
 - **Objetivo**: Documentar metodologias, técnicas e descobertas em testes de penetração
-- **Conteúdo**: 
-  - Write-ups detalhados de CTFs
-  - Relatórios de vulnerabilidades encontradas
-  - Metodologias de pentesting aplicadas
-  - Scripts e ferramentas customizadas
+- **Conteúdo**: Write-ups detalhados de CTFs, relatórios de vulnerabilidades e metodologias de pentesting
 
-### Portfolio Pessoal
-**Showcase de Projetos e Artigos Técnicos**
+### Portfolio
 - **Link**: [Portfolio](https://port-folio-blush-nine.vercel.app/)
 - **Tecnologias**: React, Next.js, Tailwind CSS
-- **Funcionalidades**:
-  - Apresentação de projetos de cybersecurity
-  - Artigos técnicos sobre segurança
-  - Timeline de conquistas e certificações
-  - Seção de contato profissional
-
-### Projetos de Segurança (Em Desenvolvimento)
-- **Vulnerability Scanner**: Ferramenta customizada para análise de vulnerabilidades web
-- **Security Lab**: Ambiente controlado para prática de técnicas de pentesting
-- **CTF Solutions**: Soluções documentadas para desafios de Capture The Flag
-- **Security Blog**: Artigos técnicos sobre tendências em cybersecurity
-
-### Projetos de Desenvolvimento Web
-- **E-commerce Seguro**: Implementação de boas práticas de segurança em aplicações web
-- **API Security**: Desenvolvimento de APIs com foco em segurança
-- **Secure Authentication**: Sistemas de autenticação robustos e seguros
 
 ---
 
