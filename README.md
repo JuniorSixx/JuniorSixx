@@ -66,6 +66,7 @@ Sou **Márcio Júnior**, profissional de cybersecurity com foco em pentesting e 
 ### Certificações Obtidas
 - **Oracle Cloud Infrastructure 2025 Certified Foundations Associate** – Oracle (Outubro 2025)
 - **Cisco Cyber Threat Management** – Cisco (Outubro 2025)
+- **Introduction to Linux (LFS101)** - The Linux Foundation (Novembro 2025)
 
 ### Certificações em Andamento
 - **OSCP** (Offensive Security Certified Professional)
