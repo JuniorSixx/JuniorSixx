@@ -40,7 +40,7 @@
 
 ## `💼 ./experience/`
 
-**DevSecOps Specialist** @ [Eduqi](https://eduqi.com.br) &nbsp;·&nbsp; *Jan 2026 – Present*
+**DevSecOps Specialist** @ [Eduqi](https://www.grupoeduqi.com.br/) &nbsp;·&nbsp; *Jan 2026 – Present*
 > Docker environments at scale · Secrets & sensitive variables management in delivery pipelines · Security automation · Monitoring & observability · Incident response time reduction
 
 **SysAdmin** @ Eduqi &nbsp;·&nbsp; *Mar 2025 – Jan 2026*
@@ -124,8 +124,12 @@
 ## `📊 github --stats JuniorSixx`
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuniorSixx&show_icons=true&count_private=true&hide_border=true&title_color=00FF00&icon_color=00FF00&text_color=C9D1D9&bg_color=0D1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorSixx&layout=compact&hide_border=true&title_color=00FF00&text_color=C9D1D9&bg_color=0D1117" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JuniorSixx&theme=github_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JuniorSixx&theme=github_dark" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JuniorSixx&theme=github_dark&utcOffset=-3" />
 </div>
 
 <div align="center">
