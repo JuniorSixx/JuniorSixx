@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.vercel.app/?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&repeat=true&width=1000&lines=_+whoami;>+M%C3%A1rcio+J%C3%BAnior;>+Pentester+%7C+Security+Researcher+%7C+Web+Dev;>+Breaking+things+to+make+them+secure;>+[+OSCP+in+progress...+]" />
+  <img src="https://readme-typing-svg.vercel.app/?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&repeat=true&width=1000&lines=_+whoami;>+M%C3%A1rcio+J%C3%BAnior;>+DevSecOps+Specialist+%7C+Pentester+%7C+Web+Dev;>+Security+is+not+a+feature%2C+it%27s+a+culture;>+[+OSCP+in+progress...+]" />
 </div>
 
 <br>
@@ -13,11 +13,13 @@
 └─$ cat about.txt
 
   Name    : Márcio Júnior
-  Role    : Cybersecurity Professional
-  Focus   : Pentesting & Web App Security
-  Dev     : React · Next.js · PHP · Laravel
+  Role    : DevSecOps Specialist @ Eduqi
+  Focus   : CI/CD Security · Docker · Pentest
+  Stack   : Python · Docker · React · Laravel
+  Comply  : LGPD · ISO 27001
   CTF     : TryHackMe | PentestWrite
   Goal    : OSCP → CEH → ???
+  Langs   : EN (C1) · ES (B1) · PT (Native)
 
 ┌──(JuniorSixx㉿kali)-[~]
 └─$ _
@@ -36,7 +38,29 @@
 
 ---
 
+## `💼 ./experience/`
+
+**DevSecOps Specialist** @ [Eduqi](https://eduqi.com.br) &nbsp;·&nbsp; *Jan 2026 – Present*
+> Docker environments at scale · Secrets & sensitive variables management in delivery pipelines · Security automation · Monitoring & observability · Incident response time reduction
+
+**SysAdmin** @ Eduqi &nbsp;·&nbsp; *Mar 2025 – Jan 2026*
+> Corporate networks (Mikrotik/Ubiquiti) · Secure VPNs · IAM/RBAC on Google Workspace · LGPD/ISO 27001 compliance · Python/PowerShell automation & auditing
+
+---
+
 ## `⚡ Tech Arsenal`
+
+### 🔒 DevSecOps & Infrastructure
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD_Pipelines-00CC44?style=flat-square&logo=githubactions&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Mikrotik](https://img.shields.io/badge/Mikrotik-293239?style=flat-square&logo=mikrotik&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM%2FRBAC-FF6B6B?style=flat-square&logo=shield&logoColor=white)
+![ISO 27001](https://img.shields.io/badge/ISO_27001-0052CC?style=flat-square&logo=iso&logoColor=white)
+![LGPD](https://img.shields.io/badge/LGPD-009C3B?style=flat-square&logo=gov&logoColor=white)
 
 ### 🔴 Pentesting & Security
 
@@ -67,7 +91,7 @@
 <td width="50%">
 
 ### [`PentestWrite`](https://github.com/JuniorSixx/PentestWrite)
-> My main project — repository of pentest write-ups, CTF solutions, and vulnerability reports.
+> Pentest write-ups, CTF solutions, vulnerability reports and attack methodologies.
 >
 > `methodology` `ctf-writeups` `vulnerability-research`
 
@@ -98,10 +122,6 @@
 ---
 
 ## `📊 github --stats JuniorSixx`
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JuniorSixx&theme=matrix&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuniorSixx&show_icons=true&count_private=true&hide_border=true&title_color=00FF00&icon_color=00FF00&text_color=C9D1D9&bg_color=0D1117" />
