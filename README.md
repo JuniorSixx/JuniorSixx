@@ -1,112 +1,129 @@
-
-
-
-
-
-
-
-
 <div align="center">
-  <img src="https://readme-typing-svg.vercel.app/?color=00ff00&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I'M+M%C3%A1rcio+J%C3%BAnior;CYBERSECURITY+%7C+PENTESTER+%7C+WEB+DEVELOPER" />
+  <img src="https://readme-typing-svg.vercel.app/?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&repeat=true&width=1000&lines=_+whoami;>+M%C3%A1rcio+J%C3%BAnior;>+Pentester+%7C+Security+Researcher+%7C+Web+Dev;>+Breaking+things+to+make+them+secure;>+[+OSCP+in+progress...+]" />
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity-FF6B6B?style=for-the-badge&logo=shield&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pentesting-4ECDC4?style=for-the-badge&logo=bug&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web%20Development-45B7D1?style=for-the-badge&logo=code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Security%20Analysis-FF6B6B?style=for-the-badge&logo=search&logoColor=white" />
-</div>
+<br>
 
-## Sobre Mim
+<table>
+<tr>
+<td valign="top" width="58%">
 
-Sou **Márcio Júnior**, profissional de cybersecurity com foco em pentesting e segurança de aplicações web. Desenvolvo habilidades em segurança da informação através de cursos especializados, laboratórios práticos e participação em desafios de CTF.
+```bash
+┌──(JuniorSixx㉿kali)-[~]
+└─$ cat about.txt
 
-### Objetivos Profissionais
-- Desenvolver expertise em pentesting e análise de vulnerabilidades
-- Contribuir para a comunidade de segurança cibernética
-- Obter certificações reconhecidas na área (OSCP, CEH)
+  Name    : Márcio Júnior
+  Role    : Cybersecurity Professional
+  Focus   : Pentesting & Web App Security
+  Dev     : React · Next.js · PHP · Laravel
+  CTF     : TryHackMe | PentestWrite
+  Goal    : OSCP → CEH → ???
 
----
+┌──(JuniorSixx㉿kali)-[~]
+└─$ _
+```
 
-## Projetos
+</td>
+<td valign="top" width="42%" align="center">
 
-### PentestWrite - Meu Projeto Principal
-**Repositório de Relatórios e Write-ups de Pentest**
-- **Link**: [PentestWrite](https://github.com/JuniorSixx/PentestWrite)
-- **Objetivo**: Documentar metodologias, técnicas e descobertas em testes de penetração
-- **Conteúdo**: Write-ups detalhados de CTFs, relatórios de vulnerabilidades e metodologias de pentesting
+<img src="https://tryhackme-badges.s3.amazonaws.com/JuniorSixx.png" alt="TryHackMe Badge" />
 
-### Portfolio
-- **Link**: [Portfolio](https://port-folio-blush-nine.vercel.app/)
-- **Tecnologias**: React, Next.js, Tailwind CSS
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-JuniorSixx-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/JuniorSixx)
 
----
-
-## Habilidades Técnicas
-
-### Pentesting & Análise de Segurança
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-FF6B6B?style=flat&logo=metasploit&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-FF6B6B?style=flat&logo=nmap&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6B6B?style=flat&logo=burp-suite&logoColor=white)
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-FF6B6B?style=flat&logo=owasp&logoColor=white)
-
-### Desenvolvimento Web
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+</td>
+</tr>
+</table>
 
 ---
 
-## Certificações
+## `⚡ Tech Arsenal`
 
-### Certificações Obtidas
-- **Oracle Cloud Infrastructure 2025 Certified Foundations Associate** – Oracle (Outubro 2025)
-- **Cisco Cyber Threat Management** – Cisco (Outubro 2025)
-- **Introduction to Linux (LFS101)** - The Linux Foundation (Novembro 2025)
+### 🔴 Pentesting & Security
 
-### Certificações em Andamento
-- **OSCP** (Offensive Security Certified Professional)
-- **CEH** (Certified Ethical Hacker)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-E34234?style=flat-square&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-00CC44?style=flat-square&logo=nmap&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burp-suite&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=flat-square&logo=owasp&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 
-### TryHackMe
-<img src="https://tryhackme-badges.s3.amazonaws.com/JuniorSixx.png?t=20241201" alt="TryHackMe Badge" />
+### 🌐 Web Development
 
-- **Perfil**: [JuniorSixx](https://tryhackme.com/p/JuniorSixx)
-- **Foco**: Pentesting, Web Application Security, Network Security
-
----
-
-## Contato & Links
-
-<div align="center">
-
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marciojuniorr/) | [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/JuniorSixx) | [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://port-folio-blush-nine.vercel.app/) |
-|:---:|:---:|:---:|
-
-</div>
-
-### Contato Profissional
-- **LinkedIn**: [marciojuniorr](https://www.linkedin.com/in/marciojuniorr/)
-- **TryHackMe**: [JuniorSixx](https://tryhackme.com/p/JuniorSixx)
-- **Portfolio**: [port-folio-blush-nine.vercel.app](https://port-folio-blush-nine.vercel.app/)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
 ---
 
-## Estatísticas GitHub
+## `📂 ./projects/`
+
+<table>
+<tr>
+<td width="50%">
+
+### [`PentestWrite`](https://github.com/JuniorSixx/PentestWrite)
+> My main project — repository of pentest write-ups, CTF solutions, and vulnerability reports.
+>
+> `methodology` `ctf-writeups` `vulnerability-research`
+
+</td>
+<td width="50%">
+
+### [`Portfolio`](https://port-folio-blush-nine.vercel.app/)
+> Personal portfolio built with React, Next.js and Tailwind CSS.
+>
+> `react` `next.js` `tailwindcss`
+
+</td>
+</tr>
+</table>
+
+---
+
+## `📜 cat certifications.txt`
+
+```
+[✔] Oracle Cloud Infrastructure 2025 Certified Foundations Associate  — Oracle        (Oct 2025)
+[✔] Cisco Cyber Threat Management                                      — Cisco         (Oct 2025)
+[✔] Introduction to Linux (LFS101)                                     — Linux Found.  (Nov 2025)
+[⏳] OSCP — Offensive Security Certified Professional                  — [in progress]
+[⏳] CEH  — Certified Ethical Hacker                                   — [in progress]
+```
+
+---
+
+## `📊 github --stats JuniorSixx`
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=JuniorSixx&theme=matrix&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuniorSixx&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorSixx&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuniorSixx&show_icons=true&count_private=true&hide_border=true&title_color=00FF00&icon_color=00FF00&text_color=C9D1D9&bg_color=0D1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorSixx&layout=compact&hide_border=true&title_color=00FF00&text_color=C9D1D9&bg_color=0D1117" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=JuniorSixx&color=00ff00&style=flat-square" />
+  <img src="https://streak-stats.demolab.com?user=JuniorSixx&theme=dark&hide_border=true&stroke=00FF00&ring=00FF00&fire=FF4500&currStreakLabel=00FF00&background=0D1117&sideLabels=C9D1D9&dates=C9D1D9" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=JuniorSixx&color=00ff00&style=flat-square&label=Profile+Views" />
+</div>
+
+---
+
+## `📡 ./contact --social`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marciojuniorr/)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/JuniorSixx)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://port-folio-blush-nine.vercel.app/)
+
 </div>
