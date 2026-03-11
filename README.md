@@ -95,33 +95,6 @@
 
 <div align="center">
 
-## Certifications & Licenses
-
-</div>
-
-| Certification | Issuer | Year |
-|---------------|--------|------|
-| Oracle Cloud Infrastructure 2025 Certified Foundations Associate | Oracle | 2025 |
-| Introduction to Linux (LFS101) | Linux Foundation | 2025 |
-| Cyber Threat Management | Cisco Networking Academy | 2025 |
-| Operação Curupira 2.0 (CTF, 60h, 146º/1006) | GoHacking | 2025 |
-| Offensive Security Track (OWASP, Red Team, Metasploit, Burp, SQLMap) | Alura | 2025 |
-| Network Security: Firewall, WAF & SIEM (pfSense, Graylog, Snort) | Alura | 2025 |
-| Pentest: Web App Vulnerabilities (SQLi, XSS, Burp, Wapiti) | Alura | 2025 |
-| Introduction to Pentest in Practice | Desec Security | 2025 |
-| Network Fundamentals (SOC focus) | LetsDefend | 2025 |
-| Cybersecurity Fundamentals | Hackers do Bem | 2025 |
-| IT Security | Bradesco | 2025 |
-| HTTP: Understanding the Web | Alura | 2025 |
-| EF SET English C2 (75/100) | EF SET | 2025 |
-| Full Stack with Java | EBAC | 2025 |
-
-*In progress: OSCP, CEH*
-
----
-
-<div align="center">
-
 ## Statistics
 
 </div>
