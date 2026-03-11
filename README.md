@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://wallpapers.com/images/high/lain-iwakura-anime-character-c8f0ytrl358eh57b.webp" alt="Header" width="100%" style="height: 200px; object-fit: cover; object-position: center; border-radius: 8px;" />
+  <img src="https://seliganerd.com/wp-content/uploads/example-182.jpg" alt="Header" width="100%" style="max-width: 900px; height: 220px; object-fit: cover; object-position: center; border-radius: 8px;" />
 
   <br/><br/>
 
@@ -79,35 +79,6 @@
 
 <div align="center">
 
-## Statistics
-
-</div>
-
-<div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuniorSixx&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=e6edf3&icon_color=c9d1d9&text_color=c9d1d9" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorSixx&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=e6edf3&text_color=c9d1d9" alt="Most Used Languages" />
-
-</div>
-
----
-
-<div align="center">
-
-## Contribution Graph
-
-</div>
-
-<div align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JuniorSixx&theme=github-dark&hide_border=true&bg_color=0D1117&color=c9d1d9&line=c9d1d9&point=e6edf3" alt="Contribution Graph" width="100%" />
-
-</div>
-
----
-
-<div align="center">
-
 ## Experience
 
 </div>
@@ -157,6 +128,35 @@
 | Full Stack with Java | EBAC | 2025 |
 
 *In progress: OSCP, CEH*
+
+---
+
+<div align="center">
+
+## Statistics
+
+</div>
+
+<div align="center">
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuniorSixx&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=e6edf3&icon_color=c9d1d9&text_color=c9d1d9" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorSixx&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=e6edf3&text_color=c9d1d9" alt="Most Used Languages" />
+
+</div>
+
+---
+
+<div align="center">
+
+## Contribution Graph
+
+</div>
+
+<div align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JuniorSixx&theme=github-dark&hide_border=true&bg_color=0D1117&color=c9d1d9&line=c9d1d9&point=e6edf3" alt="Contribution Graph" width="100%" />
+
+</div>
 
 ---
 
