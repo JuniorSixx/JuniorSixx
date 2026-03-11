@@ -1,13 +1,12 @@
 <div align="center">
 
-  <!-- Banner: substitua pela URL da sua imagem em escala de cinza (recomendado 1280x400px) -->
-  <img src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1280&h=400&fit=crop&sat=0" alt="Banner" width="100%" style="border-radius: 8px; filter: grayscale(100%);" />
+  <img src="https://wallpapers.com/images/high/lain-iwakura-anime-character-c8f0ytrl358eh57b.webp" alt="Header" width="100%" style="border-radius: 8px;" />
 
   <br/><br/>
 
-  [![LinkedIn](https://img.shields.io/badge/LINKEDIN-21262d?style=flat-square&logo=linkedin&logoColor=e6edf3)](https://www.linkedin.com/in/marciojuniorr/)
-  [![TryHackMe](https://img.shields.io/badge/TRYHACKME-21262d?style=flat-square&logo=tryhackme&logoColor=e6edf3)](https://tryhackme.com/p/JuniorSixx)
-  [![Portfolio](https://img.shields.io/badge/PORTFOLIO-21262d?style=flat-square&logo=vercel&logoColor=e6edf3)](https://port-folio-blush-nine.vercel.app/)
+  [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0D1117?style=flat-square&logo=linkedin&logoColor=e6edf3)](https://www.linkedin.com/in/marciojuniorr/)
+  [![TryHackMe](https://img.shields.io/badge/TRYHACKME-0D1117?style=flat-square&logo=tryhackme&logoColor=e6edf3)](https://tryhackme.com/p/JuniorSixx)
+  [![Portfolio](https://img.shields.io/badge/PORTFOLIO-0D1117?style=flat-square&logo=vercel&logoColor=e6edf3)](https://port-folio-blush-nine.vercel.app/)
 
 </div>
 
@@ -30,7 +29,7 @@
 </td>
 <td width="30%" align="center" valign="middle">
 
-  <img src="https://tryhackme-badges.s3.amazonaws.com/JuniorSixx.png" alt="TryHackMe" width="160" style="filter: grayscale(100%);" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/JuniorSixx.png" alt="TryHackMe" width="260" style="filter: grayscale(100%);" />
 
 </td>
 </tr>
@@ -48,31 +47,31 @@
 
 ### DevSecOps & Infra
 
-![Docker](https://img.shields.io/badge/-Docker-21262d?style=flat-square&logo=docker&logoColor=e6edf3)
-![Python](https://img.shields.io/badge/-Python-21262d?style=flat-square&logo=python&logoColor=e6edf3)
-![PowerShell](https://img.shields.io/badge/-PowerShell-21262d?style=flat-square&logo=powershell&logoColor=e6edf3)
-![GitHub Actions](https://img.shields.io/badge/-CI%2FCD-21262d?style=flat-square&logo=githubactions&logoColor=e6edf3)
-![Oracle](https://img.shields.io/badge/-Oracle_Cloud-21262d?style=flat-square&logo=oracle&logoColor=e6edf3)
-![Mikrotik](https://img.shields.io/badge/-Mikrotik-21262d?style=flat-square&logo=mikrotik&logoColor=e6edf3)
+![Docker](https://img.shields.io/badge/-Docker-0D1117?style=flat-square&logo=docker&logoColor=e6edf3)
+![Python](https://img.shields.io/badge/-Python-0D1117?style=flat-square&logo=python&logoColor=e6edf3)
+![PowerShell](https://img.shields.io/badge/-PowerShell-0D1117?style=flat-square&logo=powershell&logoColor=e6edf3)
+![GitHub Actions](https://img.shields.io/badge/-CI%2FCD-0D1117?style=flat-square&logo=githubactions&logoColor=e6edf3)
+![Oracle](https://img.shields.io/badge/-Oracle_Cloud-0D1117?style=flat-square&logo=oracle&logoColor=e6edf3)
+![Mikrotik](https://img.shields.io/badge/-Mikrotik-0D1117?style=flat-square&logo=mikrotik&logoColor=e6edf3)
 
 ### Security & Pentest
 
-![Kali Linux](https://img.shields.io/badge/-Kali_Linux-21262d?style=flat-square&logo=kalilinux&logoColor=e6edf3)
-![Metasploit](https://img.shields.io/badge/-Metasploit-21262d?style=flat-square&logo=metasploit&logoColor=e6edf3)
-![Nmap](https://img.shields.io/badge/-Nmap-21262d?style=flat-square&logo=nmap&logoColor=e6edf3)
-![Burp Suite](https://img.shields.io/badge/-Burp_Suite-21262d?style=flat-square&logo=burpsuite&logoColor=e6edf3)
-![Wireshark](https://img.shields.io/badge/-Wireshark-21262d?style=flat-square&logo=wireshark&logoColor=e6edf3)
+![Kali Linux](https://img.shields.io/badge/-Kali_Linux-0D1117?style=flat-square&logo=kalilinux&logoColor=e6edf3)
+![Metasploit](https://img.shields.io/badge/-Metasploit-0D1117?style=flat-square&logo=metasploit&logoColor=e6edf3)
+![Nmap](https://img.shields.io/badge/-Nmap-0D1117?style=flat-square&logo=nmap&logoColor=e6edf3)
+![Burp Suite](https://img.shields.io/badge/-Burp_Suite-0D1117?style=flat-square&logo=burpsuite&logoColor=e6edf3)
+![Wireshark](https://img.shields.io/badge/-Wireshark-0D1117?style=flat-square&logo=wireshark&logoColor=e6edf3)
 
 ### Web & Back-end
 
-![HTML5](https://img.shields.io/badge/-HTML5-21262d?style=flat-square&logo=html5&logoColor=e6edf3)
-![CSS3](https://img.shields.io/badge/-CSS3-21262d?style=flat-square&logo=css3&logoColor=e6edf3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-21262d?style=flat-square&logo=javascript&logoColor=e6edf3)
-![React](https://img.shields.io/badge/-React-21262d?style=flat-square&logo=react&logoColor=e6edf3)
-![Next.js](https://img.shields.io/badge/-Next.js-21262d?style=flat-square&logo=nextdotjs&logoColor=e6edf3)
-![PHP](https://img.shields.io/badge/-PHP-21262d?style=flat-square&logo=php&logoColor=e6edf3)
-![Laravel](https://img.shields.io/badge/-Laravel-21262d?style=flat-square&logo=laravel&logoColor=e6edf3)
-![Git](https://img.shields.io/badge/-Git-21262d?style=flat-square&logo=git&logoColor=e6edf3)
+![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=flat-square&logo=html5&logoColor=e6edf3)
+![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=flat-square&logo=css3&logoColor=e6edf3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=e6edf3)
+![React](https://img.shields.io/badge/-React-0D1117?style=flat-square&logo=react&logoColor=e6edf3)
+![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=e6edf3)
+![PHP](https://img.shields.io/badge/-PHP-0D1117?style=flat-square&logo=php&logoColor=e6edf3)
+![Laravel](https://img.shields.io/badge/-Laravel-0D1117?style=flat-square&logo=laravel&logoColor=e6edf3)
+![Git](https://img.shields.io/badge/-Git-0D1117?style=flat-square&logo=git&logoColor=e6edf3)
 
 </div>
 
