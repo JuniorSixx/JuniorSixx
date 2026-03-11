@@ -62,17 +62,6 @@
 ![Burp Suite](https://img.shields.io/badge/-Burp_Suite-0D1117?style=flat-square&logo=burpsuite&logoColor=e6edf3)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-0D1117?style=flat-square&logo=wireshark&logoColor=e6edf3)
 
-### Web & Back-end
-
-![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=flat-square&logo=html5&logoColor=e6edf3)
-![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=flat-square&logo=css3&logoColor=e6edf3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=e6edf3)
-![React](https://img.shields.io/badge/-React-0D1117?style=flat-square&logo=react&logoColor=e6edf3)
-![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=e6edf3)
-![PHP](https://img.shields.io/badge/-PHP-0D1117?style=flat-square&logo=php&logoColor=e6edf3)
-![Laravel](https://img.shields.io/badge/-Laravel-0D1117?style=flat-square&logo=laravel&logoColor=e6edf3)
-![Git](https://img.shields.io/badge/-Git-0D1117?style=flat-square&logo=git&logoColor=e6edf3)
-
 </div>
 
 ---
