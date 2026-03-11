@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://wallpapers.com/images/high/lain-iwakura-anime-character-c8f0ytrl358eh57b.webp" alt="Header" width="100%" style="border-radius: 8px;" />
+  <img src="https://wallpapers.com/images/high/lain-iwakura-anime-character-c8f0ytrl358eh57b.webp" alt="Header" width="100%" style="height: 200px; object-fit: cover; object-position: center; border-radius: 8px;" />
 
   <br/><br/>
 
@@ -22,9 +22,9 @@
 <tr>
 <td width="70%" valign="top">
 
-> Atualmente foco em **DevSecOps**, **CI/CD seguro**, **Docker** e **pentesting**, aplicando isso em ambientes reais e em projetos pessoais. Trabalho com pipelines, gestão de segredos, automação de segurança e redução de tempo de resposta a incidentes.
+> I focus on **DevSecOps**, **secure CI/CD**, **Docker**, and **pentesting**, applying this in production and personal projects. I work with pipelines, secrets management, security automation, monitoring, and incident response.
 >
-> Também tenho experiência com **Python**, **PowerShell**, **React**, **Laravel**, **Oracle Cloud**, redes (Mikrotik/Ubiquiti), IAM/RBAC e conformidade **LGPD** e **ISO 27001**. Em progresso: **OSCP** e **CEH**.
+> I also have experience with **Python**, **PowerShell**, **React**, **Laravel**, **Oracle Cloud**, networking (Mikrotik/Ubiquiti), IAM/RBAC, and **LGPD** / **ISO 27001** compliance. In progress: **OSCP** and **CEH**.
 
 </td>
 <td width="30%" align="center" valign="middle">
@@ -113,10 +113,10 @@
 </div>
 
 **DevSecOps Specialist** @ [Eduqi](https://www.grupoeduqi.com.br/) · *Jan 2026 – Present*  
-> Docker em escala · Gestão de segredos e variáveis sensíveis em pipelines · Automação de segurança · Monitoramento e observabilidade · Redução de tempo de resposta a incidentes
+> Docker at scale · Secrets and sensitive variables in pipelines · Security automation · Monitoring and observability · Incident response
 
 **SysAdmin** @ Eduqi · *Mar 2025 – Jan 2026*  
-> Redes corporativas (Mikrotik/Ubiquiti) · VPNs seguras · IAM/RBAC no Google Workspace · Conformidade LGPD/ISO 27001 · Automação e auditoria com Python/PowerShell
+> Corporate networks (Mikrotik/Ubiquiti) · Secure VPNs · IAM/RBAC on Google Workspace · LGPD/ISO 27001 compliance · Python/PowerShell automation and auditing
 
 ---
 
@@ -128,24 +128,35 @@
 
 | [PentestWrite](https://github.com/JuniorSixx/PentestWrite) | [Portfolio](https://port-folio-blush-nine.vercel.app/) |
 |------------------------------------------------------------|--------------------------------------------------------|
-| Write-ups de pentest, soluções de CTF, relatórios de vulnerabilidades e metodologias de ataque. | Portfolio pessoal com React, Next.js e Tailwind CSS. |
+| Pentest write-ups, CTF solutions, vulnerability reports, and attack methodologies. | Personal portfolio built with React, Next.js and Tailwind CSS. |
 | methodology · ctf-writeups · vulnerability-research | react · next.js · tailwindcss |
 
 ---
 
 <div align="center">
 
-## Certifications
+## Certifications & Licenses
 
 </div>
 
-```
-[+] Oracle Cloud Infrastructure 2025 Certified Foundations Associate  — Oracle        (Oct 2025)
-[+] Cisco Cyber Threat Management                                   — Cisco         (Oct 2025)
-[+] Introduction to Linux (LFS101)                                   — Linux Found.  (Nov 2025)
-[.] OSCP — Offensive Security Certified Professional                 — in progress
-[.] CEH  — Certified Ethical Hacker                                 — in progress
-```
+| Certification | Issuer | Year |
+|---------------|--------|------|
+| Oracle Cloud Infrastructure 2025 Certified Foundations Associate | Oracle | 2025 |
+| Introduction to Linux (LFS101) | Linux Foundation | 2025 |
+| Cyber Threat Management | Cisco Networking Academy | 2025 |
+| Operação Curupira 2.0 (CTF, 60h, 146º/1006) | GoHacking | 2025 |
+| Offensive Security Track (OWASP, Red Team, Metasploit, Burp, SQLMap) | Alura | 2025 |
+| Network Security: Firewall, WAF & SIEM (pfSense, Graylog, Snort) | Alura | 2025 |
+| Pentest: Web App Vulnerabilities (SQLi, XSS, Burp, Wapiti) | Alura | 2025 |
+| Introduction to Pentest in Practice | Desec Security | 2025 |
+| Network Fundamentals (SOC focus) | LetsDefend | 2025 |
+| Cybersecurity Fundamentals | Hackers do Bem | 2025 |
+| IT Security | Bradesco | 2025 |
+| HTTP: Understanding the Web | Alura | 2025 |
+| EF SET English C2 (75/100) | EF SET | 2025 |
+| Full Stack with Java | EBAC | 2025 |
+
+*In progress: OSCP, CEH*
 
 ---
 
