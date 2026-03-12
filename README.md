@@ -22,9 +22,9 @@
 <tr>
 <td width="70%" valign="top">
 
-> I focus on **DevSecOps**, **secure CI/CD**, **Docker**, and **pentesting**, applying this in production and personal projects. I work with pipelines, secrets management, security automation, monitoring, and incident response.
+> I focus on **DevSecOps**, **secure CI/CD**, **Docker**, and **pentesting**, applying this in production and personal projects. I work with pipelines, secrets management, security automation, monitoring, and threat response.
 >
-> I also have experience with **Python**, **PowerShell**, **React**, **Laravel**, **Oracle Cloud**, networking (Mikrotik/Ubiquiti), IAM/RBAC, and **LGPD** / **ISO 27001** compliance. In progress: **OSCP** and **CEH**.
+> I also have experience with **Python**, **PowerShell**, **React**, **Laravel**, **Oracle Cloud**, networking (Mikrotik/Ubiquiti), IAM/RBAC, and **LGPD** / **ISO 27001** compliance (GDPR-aware practices). Currently pursuing **OSCP** and **CEH**.
 
 </td>
 <td width="30%" align="center" valign="middle">
@@ -34,6 +34,8 @@
 </td>
 </tr>
 </table>
+
+> **Educational Purpose & Ethical Disclosure:** Security-related projects and tools I share are for research, defensive awareness, and educational purposes only. I advocate for responsible disclosure and ethical hacking.
 
 ---
 
@@ -53,6 +55,8 @@
 ![GitHub Actions](https://img.shields.io/badge/-CI%2FCD-0D1117?style=flat-square&logo=githubactions&logoColor=e6edf3)
 ![Oracle](https://img.shields.io/badge/-Oracle_Cloud-0D1117?style=flat-square&logo=oracle&logoColor=e6edf3)
 ![Mikrotik](https://img.shields.io/badge/-Mikrotik-0D1117?style=flat-square&logo=mikrotik&logoColor=e6edf3)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes_%28In_Progress%29-0D1117?style=flat-square&logo=kubernetes&logoColor=e6edf3)
+![Terraform](https://img.shields.io/badge/-Terraform_%28In_Progress%29-0D1117?style=flat-square&logo=terraform&logoColor=e6edf3)
 
 ### Security & Pentest
 
@@ -73,7 +77,8 @@
 </div>
 
 **DevSecOps Specialist** @ [Eduqi](https://www.grupoeduqi.com.br/) · *Jan 2026 – Present*  
-> Docker at scale · Secrets and sensitive variables in pipelines · Security automation · Monitoring and observability · Incident response
+> Orchestrating and hardening containerized environments · Secrets and sensitive variables in pipelines · Security automation · Monitoring and observability · Automating threat detection and response workflows.
+> Implementing infrastructure patterns aligned with GDPR and data privacy best practices (IAM, encryption, RBAC).
 
 **SysAdmin** @ Eduqi · *Mar 2025 – Jan 2026*  
 > Corporate networks (Mikrotik/Ubiquiti) · Secure VPNs · IAM/RBAC on Google Workspace · LGPD/ISO 27001 compliance · Python/PowerShell automation and auditing
