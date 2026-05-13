@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=180&section=header&text=Márcio%20Júnior&fontSize=42&fontColor=e6edf3&fontAlignY=38&desc=Full%20Stack%20%26%20DevOps%20Engineer&descAlignY=58&descSize=18&descColor=8b949e" width="100%" />
+  <img src="https://images.steamusercontent.com/ugc/933812105928921584/84AFFACF9A270018E5B038575D86D8616733EFEF/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="Header" width="100%" style="max-width: 900px; height: 220px; object-fit: cover; object-position: center; border-radius: 8px;" />
 
   <br/>
 
@@ -181,5 +181,5 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer&reversal=false" width="100%" />
 </div>
