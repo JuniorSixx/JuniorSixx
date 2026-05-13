@@ -1,8 +1,8 @@
 <div align="center">
 
-  <img src="https://seliganerd.com/wp-content/uploads/example-182.jpg" alt="Header" width="100%" style="max-width: 900px; height: 220px; object-fit: cover; object-position: center; border-radius: 8px;" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=180&section=header&text=Márcio%20Júnior&fontSize=42&fontColor=e6edf3&fontAlignY=38&desc=Full%20Stack%20%26%20DevOps%20Engineer&descAlignY=58&descSize=18&descColor=8b949e" width="100%" />
 
-  <br/><br/>
+  <br/>
 
   [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0D1117?style=flat-square&logo=linkedin&logoColor=e6edf3)](https://www.linkedin.com/in/marciojuniorr/)
   [![TryHackMe](https://img.shields.io/badge/TRYHACKME-0D1117?style=flat-square&logo=tryhackme&logoColor=e6edf3)](https://tryhackme.com/p/JuniorSixx)
@@ -14,7 +14,7 @@
 
 <div align="center">
 
-## DevSecOps Specialist · Pentester
+## Full Stack & DevOps Engineer
 
 </div>
 
@@ -22,9 +22,11 @@
 <tr>
 <td width="70%" valign="top">
 
-> I focus on **DevSecOps**, **secure CI/CD**, **Docker**, and **pentesting**, applying this in production and personal projects. I work with pipelines, secrets management, security automation, monitoring, and threat response.
+> I work across the full stack — from frontend interfaces to backend APIs, containerized infrastructure, and secure CI/CD pipelines. At **Grupo Eduqi / Nova Concursos**, I bridge development and operations: building features, hardening environments, and automating everything in between.
 >
-> I also have experience with **Python**, **PowerShell**, **React**, **Laravel**, **Oracle Cloud**, networking (Mikrotik/Ubiquiti), IAM/RBAC, and **LGPD** / **ISO 27001** compliance (GDPR-aware practices). Currently pursuing **OSCP** and **CEH**.
+> My stack spans **React**, **Laravel**, **Node.js**, **Docker**, **AWS**, **Nginx**, **Cloudflare**, and **n8n** for workflow automation. On the security side, I apply **DevSecOps** practices: secrets management, IAM/RBAC, Cloudflare WAF, fail2ban, and OWASP-based pentesting. Networking-wise, I manage **MikroTik/Ubiquiti** infrastructure with VLANs, PPPoE, WireGuard VPN, and failover setups.
+>
+> Currently pursuing **OSCP** and **CEH**.
 
 </td>
 <td width="30%" align="center" valign="middle">
@@ -35,7 +37,7 @@
 </tr>
 </table>
 
-> **Educational Purpose & Ethical Disclosure:** Security-related projects and tools I share are for research, defensive awareness, and educational purposes only. I advocate for responsible disclosure and ethical hacking.
+> **Ethical Disclosure:** Security-related projects and tools I share are for research, defensive awareness, and educational purposes only. I advocate for responsible disclosure and ethical hacking.
 
 ---
 
@@ -47,7 +49,23 @@
 
 <div align="center">
 
-### DevSecOps & Infra
+### Frontend
+
+![React](https://img.shields.io/badge/-React-0D1117?style=flat-square&logo=react&logoColor=e6edf3)
+![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=e6edf3)
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=e6edf3)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=e6edf3)
+![Vite](https://img.shields.io/badge/-Vite-0D1117?style=flat-square&logo=vite&logoColor=e6edf3)
+
+### Backend
+
+![Laravel](https://img.shields.io/badge/-Laravel-0D1117?style=flat-square&logo=laravel&logoColor=e6edf3)
+![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=e6edf3)
+![Python](https://img.shields.io/badge/-Python-0D1117?style=flat-square&logo=python&logoColor=e6edf3)
+![REST APIs](https://img.shields.io/badge/-REST_APIs-0D1117?style=flat-square&logo=fastapi&logoColor=e6edf3)
+![PHP](https://img.shields.io/badge/-PHP-0D1117?style=flat-square&logo=php&logoColor=e6edf3)
+
+### DevOps & Infra
 
 ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=flat-square&logo=docker&logoColor=e6edf3)
 ![AWS](https://img.shields.io/badge/-AWS-0D1117?style=flat-square&logo=amazonaws&logoColor=e6edf3)
@@ -55,11 +73,11 @@
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-0D1117?style=flat-square&logo=cloudflare&logoColor=e6edf3)
 ![n8n](https://img.shields.io/badge/-n8n-0D1117?style=flat-square&logo=n8n&logoColor=e6edf3)
 ![Bitbucket Pipelines](https://img.shields.io/badge/-Bitbucket_Pipelines-0D1117?style=flat-square&logo=bitbucket&logoColor=e6edf3)
-![Python](https://img.shields.io/badge/-Python-0D1117?style=flat-square&logo=python&logoColor=e6edf3)
-![PowerShell](https://img.shields.io/badge/-PowerShell-0D1117?style=flat-square&logo=powershell&logoColor=e6edf3)
 ![GitHub Actions](https://img.shields.io/badge/-CI%2FCD-0D1117?style=flat-square&logo=githubactions&logoColor=e6edf3)
-![Oracle](https://img.shields.io/badge/-Oracle_Cloud-0D1117?style=flat-square&logo=oracle&logoColor=e6edf3)
+![WireGuard](https://img.shields.io/badge/-WireGuard-0D1117?style=flat-square&logo=wireguard&logoColor=e6edf3)
 ![Mikrotik](https://img.shields.io/badge/-Mikrotik-0D1117?style=flat-square&logo=mikrotik&logoColor=e6edf3)
+![PowerShell](https://img.shields.io/badge/-PowerShell-0D1117?style=flat-square&logo=powershell&logoColor=e6edf3)
+![Oracle](https://img.shields.io/badge/-Oracle_Cloud-0D1117?style=flat-square&logo=oracle&logoColor=e6edf3)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes_%28In_Progress%29-0D1117?style=flat-square&logo=kubernetes&logoColor=e6edf3)
 ![Terraform](https://img.shields.io/badge/-Terraform_%28In_Progress%29-0D1117?style=flat-square&logo=terraform&logoColor=e6edf3)
 
@@ -78,6 +96,7 @@
 ![Burp Suite](https://img.shields.io/badge/-Burp_Suite-0D1117?style=flat-square&logo=burpsuite&logoColor=e6edf3)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-0D1117?style=flat-square&logo=wireshark&logoColor=e6edf3)
 ![Bitwarden](https://img.shields.io/badge/-Bitwarden-0D1117?style=flat-square&logo=bitwarden&logoColor=e6edf3)
+![OWASP ZAP](https://img.shields.io/badge/-OWASP_ZAP-0D1117?style=flat-square&logo=owasp&logoColor=e6edf3)
 
 </div>
 
@@ -89,13 +108,11 @@
 
 </div>
 
-**DevSecOps Specialist** @ [Grupo Eduqi](https://www.grupoeduqi.com.br/) · *Jan 2026 – Present* *(promoted)*
-> Orchestrating and hardening containerized environments · Secrets and sensitive variables in pipelines · Security automation · Monitoring and observability · Automating threat detection and response workflows.
-> Implementing infrastructure patterns aligned with GDPR and data privacy best practices (IAM, encryption, RBAC).
-> AWS cost monitoring automation via n8n with daily email alerts · Nginx reverse proxy · SSL/Let's Encrypt · DNS on Cloudflare and Route 53 · MySQL, PostgreSQL, Redis, Elasticsearch in production · Microsoft 365 / Exchange Online administration.
+**Full Stack & DevOps Engineer** @ [Grupo Eduqi / Nova Concursos](https://www.grupoeduqi.com.br/) · *Jan 2026 – Present* *(promoted)*
+> Full stack feature development alongside infrastructure ownership. Building and maintaining Laravel and React applications in production · Docker-based staging environments with 8+ active vhosts · Nginx reverse proxy, SSL/Let's Encrypt, Cloudflare WAF and security headers · WireGuard VPN configuration · AWS cost monitoring automation via n8n with daily HTML reports · MySQL, PostgreSQL, Redis, Elasticsearch in production · Microsoft 365 / Exchange Online administration · LGPD / ISO 27001 aligned practices (IAM, RBAC, secrets management).
 
-**SysAdmin** @ [Grupo Eduqi](https://www.grupoeduqi.com.br/) · *May 2025 – Jan 2026*
-> Corporate networks (Mikrotik/Ubiquiti) · VLANs, QoS, Firewall, NAT, Failover · Secure VPNs · IAM/RBAC on Google Workspace · LGPD/ISO 27001 compliance · Python/PowerShell automation and auditing · Internal pentesting on networks and endpoints.
+**Full Stack Developer** @ [Grupo Eduqi / Nova Concursos](https://www.grupoeduqi.com.br/) · *May 2025 – Jan 2026*
+> Feature development on Laravel and React-based platforms · Bitbucket Pipelines CI/CD · Staging environment setup and maintenance · Internal tooling and automation.
 
 **Co-Founder & Lead Backend/Infrastructure Engineer** @ [CMJ Code Haven](https://github.com/JuniorSixx) · *Jun 2025 – Present*
 > Built and delivered web projects end-to-end: personal sites, landing pages, gym management app (training + scheduling), and digital marketing campaigns.
@@ -161,4 +178,8 @@
 
   <img src="https://komarev.com/ghpvc/?username=JuniorSixx&color=c9d1d9&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer" width="100%" />
 </div>
