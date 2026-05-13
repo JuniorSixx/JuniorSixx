@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://images.steamusercontent.com/ugc/933812105928921584/84AFFACF9A270018E5B038575D86D8616733EFEF/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="Header" width="100%" style="max-width: 900px; height: 220px; object-fit: cover; object-position: center; border-radius: 8px;" />
+  <img src="https://boundingintocomics.com/cdn-cgi/image/width=1180,height=664,fit=crop,quality=75,gravity=auto,metadata=none,format=auto,onerror=redirect/wp-content/uploads/a-1.png" alt="Header" width="100%" style="max-width: 900px; height: 220px; object-fit: cover; object-position: center; border-radius: 8px;" />
 
   <br/>
 
