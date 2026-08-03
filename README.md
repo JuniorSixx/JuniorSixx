@@ -2,11 +2,15 @@
 
   <img src="https://boundingintocomics.com/cdn-cgi/image/width=1180,height=664,fit=crop,quality=75,gravity=auto,metadata=none,format=auto,onerror=redirect/wp-content/uploads/a-1.png" alt="Header" width="100%" style="max-width: 900px; height: 220px; object-fit: cover; object-position: center; border-radius: 8px;" />
 
+  <br/><br/>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FFF2&center=true&vCenter=true&width=600&lines=Present+day%2C+present+time...;Full+Stack+%26+DevOps+Engineer;Building%2C+breaking%2C+securing." alt="Typing SVG" />
+
   <br/>
 
-  [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0D1117?style=flat-square&logo=linkedin&logoColor=e6edf3)](https://www.linkedin.com/in/marciojuniorr/)
-  [![TryHackMe](https://img.shields.io/badge/TRYHACKME-0D1117?style=flat-square&logo=tryhackme&logoColor=e6edf3)](https://tryhackme.com/p/JuniorSixx)
-  [![Portfolio](https://img.shields.io/badge/PORTFOLIO-0D1117?style=flat-square&logo=vercel&logoColor=e6edf3)](https://port-folio-blush-nine.vercel.app/)
+  [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0D1117?style=flat-square&logo=linkedin&logoColor=00FFF2)](https://www.linkedin.com/in/marciojuniorr/)
+  [![TryHackMe](https://img.shields.io/badge/TRYHACKME-0D1117?style=flat-square&logo=tryhackme&logoColor=00FFF2)](https://tryhackme.com/p/JuniorSixx)
+  [![Portfolio](https://img.shields.io/badge/PORTFOLIO-0D1117?style=flat-square&logo=vercel&logoColor=00FFF2)](https://port-folio-blush-nine.vercel.app/)
 
 </div>
 
@@ -14,7 +18,7 @@
 
 <div align="center">
 
-## Full Stack & DevOps Engineer
+## `> whoami`
 
 </div>
 
@@ -31,7 +35,7 @@
 </td>
 <td width="30%" align="center" valign="middle">
 
-  <img src="https://tryhackme-badges.s3.amazonaws.com/JuniorSixx.png" alt="TryHackMe" width="260" style="filter: grayscale(100%);" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/JuniorSixx.png" alt="TryHackMe" width="260" />
 
 </td>
 </tr>
@@ -43,7 +47,7 @@
 
 <div align="center">
 
-## Technologies
+## `> stack --list`
 
 </div>
 
@@ -51,52 +55,52 @@
 
 ### Frontend
 
-![React](https://img.shields.io/badge/-React-0D1117?style=flat-square&logo=react&logoColor=e6edf3)
-![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=e6edf3)
-![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=e6edf3)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=e6edf3)
-![Vite](https://img.shields.io/badge/-Vite-0D1117?style=flat-square&logo=vite&logoColor=e6edf3)
+![React](https://img.shields.io/badge/-React-0D1117?style=flat-square&logo=react&logoColor=00FFF2)
+![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=00FFF2)
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=00FFF2)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=00FFF2)
+![Vite](https://img.shields.io/badge/-Vite-0D1117?style=flat-square&logo=vite&logoColor=00FFF2)
 
 ### Backend
 
-![Laravel](https://img.shields.io/badge/-Laravel-0D1117?style=flat-square&logo=laravel&logoColor=e6edf3)
-![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=e6edf3)
-![Python](https://img.shields.io/badge/-Python-0D1117?style=flat-square&logo=python&logoColor=e6edf3)
-![REST APIs](https://img.shields.io/badge/-REST_APIs-0D1117?style=flat-square&logo=fastapi&logoColor=e6edf3)
-![PHP](https://img.shields.io/badge/-PHP-0D1117?style=flat-square&logo=php&logoColor=e6edf3)
+![Laravel](https://img.shields.io/badge/-Laravel-0D1117?style=flat-square&logo=laravel&logoColor=00FFF2)
+![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=00FFF2)
+![Python](https://img.shields.io/badge/-Python-0D1117?style=flat-square&logo=python&logoColor=00FFF2)
+![REST APIs](https://img.shields.io/badge/-REST_APIs-0D1117?style=flat-square&logo=fastapi&logoColor=00FFF2)
+![PHP](https://img.shields.io/badge/-PHP-0D1117?style=flat-square&logo=php&logoColor=00FFF2)
 
 ### DevOps & Infra
 
-![Docker](https://img.shields.io/badge/-Docker-0D1117?style=flat-square&logo=docker&logoColor=e6edf3)
-![AWS](https://img.shields.io/badge/-AWS-0D1117?style=flat-square&logo=amazonaws&logoColor=e6edf3)
-![Nginx](https://img.shields.io/badge/-Nginx-0D1117?style=flat-square&logo=nginx&logoColor=e6edf3)
-![Cloudflare](https://img.shields.io/badge/-Cloudflare-0D1117?style=flat-square&logo=cloudflare&logoColor=e6edf3)
-![n8n](https://img.shields.io/badge/-n8n-0D1117?style=flat-square&logo=n8n&logoColor=e6edf3)
-![Bitbucket Pipelines](https://img.shields.io/badge/-Bitbucket_Pipelines-0D1117?style=flat-square&logo=bitbucket&logoColor=e6edf3)
-![GitHub Actions](https://img.shields.io/badge/-CI%2FCD-0D1117?style=flat-square&logo=githubactions&logoColor=e6edf3)
-![WireGuard](https://img.shields.io/badge/-WireGuard-0D1117?style=flat-square&logo=wireguard&logoColor=e6edf3)
-![Mikrotik](https://img.shields.io/badge/-Mikrotik-0D1117?style=flat-square&logo=mikrotik&logoColor=e6edf3)
-![PowerShell](https://img.shields.io/badge/-PowerShell-0D1117?style=flat-square&logo=powershell&logoColor=e6edf3)
-![Oracle](https://img.shields.io/badge/-Oracle_Cloud-0D1117?style=flat-square&logo=oracle&logoColor=e6edf3)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes_%28In_Progress%29-0D1117?style=flat-square&logo=kubernetes&logoColor=e6edf3)
-![Terraform](https://img.shields.io/badge/-Terraform_%28In_Progress%29-0D1117?style=flat-square&logo=terraform&logoColor=e6edf3)
+![Docker](https://img.shields.io/badge/-Docker-0D1117?style=flat-square&logo=docker&logoColor=00FFF2)
+![AWS](https://img.shields.io/badge/-AWS-0D1117?style=flat-square&logo=amazonaws&logoColor=00FFF2)
+![Nginx](https://img.shields.io/badge/-Nginx-0D1117?style=flat-square&logo=nginx&logoColor=00FFF2)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-0D1117?style=flat-square&logo=cloudflare&logoColor=00FFF2)
+![n8n](https://img.shields.io/badge/-n8n-0D1117?style=flat-square&logo=n8n&logoColor=00FFF2)
+![Bitbucket Pipelines](https://img.shields.io/badge/-Bitbucket_Pipelines-0D1117?style=flat-square&logo=bitbucket&logoColor=00FFF2)
+![GitHub Actions](https://img.shields.io/badge/-CI%2FCD-0D1117?style=flat-square&logo=githubactions&logoColor=00FFF2)
+![WireGuard](https://img.shields.io/badge/-WireGuard-0D1117?style=flat-square&logo=wireguard&logoColor=00FFF2)
+![Mikrotik](https://img.shields.io/badge/-Mikrotik-0D1117?style=flat-square&logo=mikrotik&logoColor=00FFF2)
+![PowerShell](https://img.shields.io/badge/-PowerShell-0D1117?style=flat-square&logo=powershell&logoColor=00FFF2)
+![Oracle](https://img.shields.io/badge/-Oracle_Cloud-0D1117?style=flat-square&logo=oracle&logoColor=00FFF2)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes_%28In_Progress%29-0D1117?style=flat-square&logo=kubernetes&logoColor=00FFF2)
+![Terraform](https://img.shields.io/badge/-Terraform_%28In_Progress%29-0D1117?style=flat-square&logo=terraform&logoColor=00FFF2)
 
 ### Databases & Cache
 
-![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=flat-square&logo=mysql&logoColor=e6edf3)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=e6edf3)
-![Redis](https://img.shields.io/badge/-Redis-0D1117?style=flat-square&logo=redis&logoColor=e6edf3)
-![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-0D1117?style=flat-square&logo=elasticsearch&logoColor=e6edf3)
+![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=flat-square&logo=mysql&logoColor=00FFF2)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=00FFF2)
+![Redis](https://img.shields.io/badge/-Redis-0D1117?style=flat-square&logo=redis&logoColor=00FFF2)
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-0D1117?style=flat-square&logo=elasticsearch&logoColor=00FFF2)
 
 ### Security & Pentest
 
-![Kali Linux](https://img.shields.io/badge/-Kali_Linux-0D1117?style=flat-square&logo=kalilinux&logoColor=e6edf3)
-![Metasploit](https://img.shields.io/badge/-Metasploit-0D1117?style=flat-square&logo=metasploit&logoColor=e6edf3)
-![Nmap](https://img.shields.io/badge/-Nmap-0D1117?style=flat-square&logo=nmap&logoColor=e6edf3)
-![Burp Suite](https://img.shields.io/badge/-Burp_Suite-0D1117?style=flat-square&logo=burpsuite&logoColor=e6edf3)
-![Wireshark](https://img.shields.io/badge/-Wireshark-0D1117?style=flat-square&logo=wireshark&logoColor=e6edf3)
-![Bitwarden](https://img.shields.io/badge/-Bitwarden-0D1117?style=flat-square&logo=bitwarden&logoColor=e6edf3)
-![OWASP ZAP](https://img.shields.io/badge/-OWASP_ZAP-0D1117?style=flat-square&logo=owasp&logoColor=e6edf3)
+![Kali Linux](https://img.shields.io/badge/-Kali_Linux-0D1117?style=flat-square&logo=kalilinux&logoColor=00FFF2)
+![Metasploit](https://img.shields.io/badge/-Metasploit-0D1117?style=flat-square&logo=metasploit&logoColor=00FFF2)
+![Nmap](https://img.shields.io/badge/-Nmap-0D1117?style=flat-square&logo=nmap&logoColor=00FFF2)
+![Burp Suite](https://img.shields.io/badge/-Burp_Suite-0D1117?style=flat-square&logo=burpsuite&logoColor=00FFF2)
+![Wireshark](https://img.shields.io/badge/-Wireshark-0D1117?style=flat-square&logo=wireshark&logoColor=00FFF2)
+![Bitwarden](https://img.shields.io/badge/-Bitwarden-0D1117?style=flat-square&logo=bitwarden&logoColor=00FFF2)
+![OWASP ZAP](https://img.shields.io/badge/-OWASP_ZAP-0D1117?style=flat-square&logo=owasp&logoColor=00FFF2)
 
 </div>
 
@@ -104,7 +108,7 @@
 
 <div align="center">
 
-## Experience
+## `> history --experience`
 
 </div>
 
@@ -129,7 +133,7 @@
 
 <div align="center">
 
-## Projects
+## `> ls ./projects`
 
 </div>
 
@@ -147,39 +151,25 @@
 
 <div align="center">
 
-## Statistics
+## `> stats --render`
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuniorSixx&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FFF2&icon_color=00FFF2&text_color=c9d1d9&cache_seconds=1800" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorSixx&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FFF2&text_color=c9d1d9&cache_seconds=1800" alt="Most Used Languages" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JuniorSixx&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FFF2&line=00FFF2&point=e6edf3&cache_seconds=1800" alt="Contribution Graph" width="100%" />
+
+<img src="https://komarev.com/ghpvc/?username=JuniorSixx&color=00FFF2&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
 </div>
 
-<div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuniorSixx&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=e6edf3&icon_color=c9d1d9&text_color=c9d1d9" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorSixx&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=e6edf3&text_color=c9d1d9" alt="Most Used Languages" />
-
-</div>
-
----
-
-<div align="center">
-
-## Contribution Graph
-
-</div>
+<!--
+  Se algum dia essas imagens sumirem de novo: é a instância pública do
+  github-readme-stats/activity-graph estourando o limite dela (comum,
+  acontece com todo mundo, não é bug seu). O cache_seconds já reduz
+  isso. Se quiser resolver de vez, é só fazer deploy do teu próprio
+  Vercel — me chama que eu te guio.
+-->
 
 <div align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JuniorSixx&theme=github-dark&hide_border=true&bg_color=0D1117&color=c9d1d9&line=c9d1d9&point=e6edf3" alt="Contribution Graph" width="100%" />
-
-</div>
-
----
-
-<div align="center">
-
-  <img src="https://komarev.com/ghpvc/?username=JuniorSixx&color=c9d1d9&style=flat-square&label=Profile+Views" alt="Profile Views" />
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer&reversal=false" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer&text=connected.&fontColor=00FFF2&fontSize=24&reversal=false" width="100%" />
 </div>
