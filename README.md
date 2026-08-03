@@ -151,24 +151,34 @@
 
 <div align="center">
 
-## `> stats --render`
+## `> whoami --verbose`
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuniorSixx&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FFF2&icon_color=00FFF2&text_color=c9d1d9&cache_seconds=1800" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorSixx&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FFF2&text_color=c9d1d9&cache_seconds=1800" alt="Most Used Languages" />
+```
+-----------------------------------------------------
+OS:        The Wired 26.08
+Host:      eduqiserver
+Uptime:    in IT since 2014
+Shell:     bash / zsh
+Languages: PHP · JS/TS · Python
+Stack:     Full Stack :: DevOps :: Security
+Status:    [ONLINE] connected to the Wired
+-----------------------------------------------------
+"No matter where you are, we are always connected."
+```
+
+</div>
+
+---
+
+<div align="center">
+
+## `> stats --render`
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=JuniorSixx&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FFF2&line=00FFF2&point=e6edf3&cache_seconds=1800" alt="Contribution Graph" width="100%" />
 
 <img src="https://komarev.com/ghpvc/?username=JuniorSixx&color=00FFF2&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
 </div>
-
-<!--
-  Se algum dia essas imagens sumirem de novo: é a instância pública do
-  github-readme-stats/activity-graph estourando o limite dela (comum,
-  acontece com todo mundo, não é bug seu). O cache_seconds já reduz
-  isso. Se quiser resolver de vez, é só fazer deploy do teu próprio
-  Vercel — me chama que eu te guio.
--->
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer&text=connected.&fontColor=00FFF2&fontSize=24&reversal=false" width="100%" />
