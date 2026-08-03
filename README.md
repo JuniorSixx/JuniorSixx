@@ -156,7 +156,7 @@
 ```
 -----------------------------------------------------
 OS:        The Wired 26.08
-Host:      eduqiserver
+Host:      JuniorSixx-terminal
 Uptime:    in IT since 2014
 Shell:     bash / zsh
 Languages: PHP · JS/TS · Python
